@@ -1,9 +1,9 @@
 package practise;
 
-	//abstract class
+	//abstract class- cant create obj of a class
 	// abstract classes cannot be final bcoz it has to inherited to implement its undefined methods
-	abstract class AA{
-	abstract void callme();//abstract method
+    abstract class AA{
+    abstract void callme();//abstract method can only be defined by abstract class
 	public void callmetoo(){
 	System.out.println("This is a concrete method");
 	}	
