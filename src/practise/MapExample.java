@@ -1,4 +1,4 @@
-package test;
+package practise;
 import java.util.HashMap;
 import java.util.Map;
 
